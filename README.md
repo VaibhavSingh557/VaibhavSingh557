@@ -2,12 +2,16 @@
   <!-- Awesome Floating Hologram / Coding GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-0814-411a-8cce-b472bf62463e.gif" width="280" alt="Animated Coding GIF" />
   
-  <!-- HUGE Welcome Text -->
-  <h1><b>HELLO, I AM VAIBHAV 👋</b></h1>
+  <br>
 
-  <!-- Enlarged Animated Typing Text -->
+  <!-- MASSIVE Name Graphic (Double Size: 55px) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Python+Automation+Expert;Linux+%26+Windows+Power+User" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=55&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=HELLO,+I+AM+VAIBHAV" alt="HELLO I AM VAIBHAV" />
+  </a>
+
+  <!-- Enlarged Animated Typing Text for your roles -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Web+Developer;Cybersecurity+Enthusiast;Python+Automation+Expert;Linux+%26+Windows+Power+User" alt="Typing Animation" />
   </a>
 
   <br><br>
