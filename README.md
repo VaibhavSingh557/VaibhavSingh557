@@ -2,7 +2,7 @@
   <!-- Animated Header Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=fadeIn" width="100%" alt="Header Wave" />
 
-  <!-- Original Animated Coding GIF -->
+  <!-- Animated Coding GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-0814-411a-8cce-b472bf62463e.gif" width="280" alt="Animated Coding GIF" />
   
   <h1>Hi there, I'm Developer Vaibhav 👋</h1>
@@ -14,12 +14,12 @@
 
   <br><br>
 
-  <!-- Professional Live Badges (Replaces the broken fake view counter) -->
+  <!-- Professional Live Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Actively_Coding-00D2FF?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/Focus-Cyber_Defense_%26_Web_Dev-FF2E63?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Focus" />
-    <a href="https://github.com/vaibhavsinghabc557-boop?tab=followers">
-      <img src="https://img.shields.io/github/followers/vaibhavsinghabc557-boop?label=Followers&style=for-the-badge&color=00F59B&logo=github&logoColor=black" alt="Followers" />
+    <a href="https://github.com/VaibhavSingh557?tab=followers">
+      <img src="https://img.shields.io/github/followers/VaibhavSingh557?label=Followers&style=for-the-badge&color=00F59B&logo=github&logoColor=black" alt="Followers" />
     </a>
     <img src="https://img.shields.io/badge/Location-India-FF9900?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
@@ -83,9 +83,15 @@ As **Developer Vaibhav**, my philosophy is simple: write clean, highly efficient
 ## 📊 Live Coding Telemetry
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhavsinghabc557-boop&theme=radical&hide_border=true&background=0D1117&ring=00F59B&fire=FF2E63&currStreakLabel=00D2FF" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaibhavSingh557&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Vaibhav's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSingh557&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=VaibhavSingh557&theme=radical&hide_border=true&background=0D1117&ring=00F59B&fire=FF2E63&currStreakLabel=00D2FF" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavsinghabc557-boop&bg_color=0D1117&color=00F59B&line=00D2FF&point=FF2E63&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavSingh557&bg_color=0D1117&color=00F59B&line=00D2FF&point=FF2E63&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Divider" />
@@ -102,10 +108,10 @@ As **Developer Vaibhav**, my philosophy is simple: write clean, highly efficient
     <a href="https://www.linkedin.com/search/results/all/?keywords=Vaibhav%20Singh">
       <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://dev.to/vaibhavsinghabc557-boop">
+    <a href="https://dev.to/VaibhavSingh557">
       <img src="https://img.shields.io/badge/DEV.TO-Read_My_Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
     </a>
-    <a href="https://github.com/vaibhavsinghabc557-boop">
+    <a href="https://github.com/VaibhavSingh557">
       <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
