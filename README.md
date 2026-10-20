@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-0814-411a-8cce-b472bf62463e.gif" width="300" alt="Animated Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-0814-411a-8cce-b472bf62463e.gif" width="280" alt="Animated Coding GIF" />
   
   <h1>Hi there, I'm Developer Vaibhav 👋</h1>
 
@@ -7,10 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F59B&center=true&vCenter=true&width=650&lines=Python+Developer;Cybersecurity+Enthusiast;Full-Stack+Web+Developer;Linux+%26+Windows+Power+User" alt="Typing Animation" />
   </a>
 
-  <br>
+  <br><br>
 
-  <!-- Replace YOUR-GITHUB-USERNAME below with your actual GitHub username! -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=00F59B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+  <!-- Real GitHub Stats Card (Replaced the false view counter) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavSingh557&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F59B&icon_color=00D2FF&text_color=C9D1D9" alt="Vaibhav's GitHub Stats" />
 </div>
 
 <br>
@@ -62,7 +62,6 @@ As **Developer Vaibhav**, my philosophy is simple: write clean, highly efficient
 
 <div align="center">
   <p><b>Languages, Frameworks & Operating Systems</b></p>
-  <!-- Beautiful, dynamic Skill Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux,windows,ubuntu,kali,flask,react,nodejs,git&perline=7" alt="Tech Stack Icons" />
   </a>
@@ -80,10 +79,12 @@ Looking to collaborate on cybersecurity tools, web development projects, or just
   <a href="mailto:vaibhavsingh.abc557@gmail.com">
     <img src="https://img.shields.io/badge/Email-vaibhavsingh.abc557@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vaibhav" />
   </a>
+  <!-- Remember to paste your actual LinkedIn URL here -->
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/YOUR-DEVTO-USERNAME">
+  <!-- Updated with your GitHub username structure for Dev.to -->
+  <a href="https://dev.to/VaibhavSingh557">
     <img src="https://img.shields.io/badge/DEV.TO-Read_My_Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
   </a>
 </p>
