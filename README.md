@@ -2,6 +2,8 @@
   <!-- Awesome Floating Hologram / Coding GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-0814-411a-8cce-b472bf62463e.gif" width="280" alt="Animated Coding GIF" />
   
+  <br>
+
   <!-- HUGE Name Text -->
   <h1><b>👋 HELLO, I AM VAIBHAV SINGH</b></h1>
   <h2><b>( aka Developer Vaibhav )</b></h2>
@@ -17,7 +19,7 @@
 
   <br><br>
 
-  <!-- Colorful Live GitHub Stats -->
+  <!-- Real, Colorful Live GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=VaibhavSingh557&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F59B&icon_color=00D2FF&text_color=C9D1D9" alt="Vaibhav's GitHub Stats" />
 </div>
 
@@ -94,7 +96,7 @@ Looking to collaborate on cybersecurity tools, web development projects, or just
     <img src="https://img.shields.io/badge/Email-vaibhavsingh.abc557@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vaibhav" />
   </a>
   <!-- Paste your actual LinkedIn profile link below! -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE">
+  <a href="YOUR-LINKEDIN-URL-HERE">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://dev.to/VaibhavSingh557">
